@@ -35,5 +35,5 @@ Flags:
 ### Install
 
 ```
-go install github.com/samertm/homebrew-go-resources@latest
+go install github.com/Unity-Billal-mesloub/homebrew-go-resources@latest
 ```
